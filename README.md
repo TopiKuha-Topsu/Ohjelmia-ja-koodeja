@@ -1,2 +1,2 @@
 # Ohjelmia-ja-koodeja
-itsestään selvä nimi
+koulussa tehtyjä koodeja
